@@ -21,7 +21,7 @@ This library include the below modules:
 ## How to use
 You can submodule this repo in your other repository as following
 ```bash
-git clone 
+git clone  https://github.com/jwkanggist/everybody-dsp-in-cpp
 git init
 ```
 
